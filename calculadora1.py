@@ -1,3 +1,5 @@
+#BY FRANCISCO ISRAEL CASTILLO GUTIERREZ
+
 from tkinter import*
 from math import*
 
